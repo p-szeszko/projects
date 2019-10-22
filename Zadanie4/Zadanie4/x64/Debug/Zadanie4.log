@@ -1,0 +1,34 @@
+﻿  CGeneticAlgorithm.cpp
+e:\zad4\zadanie4\zadanie4\cknapsackproblem.h(24): error C2061: błąd składniowy: identyfikator „CIndividual”
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.cpp(95): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+  CIndividual.cpp
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(19): error C2061: błąd składniowy: identyfikator „CKnapsackProblem”
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(31): error C2143: błąd składniowy: brakuje „;” przed „*”
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(31): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(31): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(32): error C2143: błąd składniowy: brakuje „;” przed „*”
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(32): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(32): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(39): error C2065: "CIndividual": niezadeklarowany identyfikator
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(39): error C2059: błąd składniowy: „>”
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(39): error C2976: "std::vector": za mało argumentów szablon
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vector(625): note: zobacz deklarację „std::vector”
+e:\zad4\zadanie4\zadanie4\cknapsackproblem.h(24): error C2061: błąd składniowy: identyfikator „CIndividual”
+e:\zad4\zadanie4\zadanie4\cindividual.cpp(30): error C2660: "CKnapsackProblem::eval_fittnes": funkcja nie przyjmuje 1 argumentów
+  e:\zad4\zadanie4\zadanie4\cknapsackproblem.h(24): note: zobacz deklarację „CKnapsackProblem::eval_fittnes”
+  CKnapsackProblem.cpp
+e:\zad4\zadanie4\zadanie4\cindividual.h(13): error C2061: błąd składniowy: identyfikator „CKnapsackProblem”
+e:\zad4\zadanie4\zadanie4\cindividual.h(25): error C2143: błąd składniowy: brakuje „;” przed „*”
+e:\zad4\zadanie4\zadanie4\cindividual.h(25): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+e:\zad4\zadanie4\zadanie4\cindividual.h(25): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(19): error C2061: błąd składniowy: identyfikator „CKnapsackProblem”
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(31): error C2143: błąd składniowy: brakuje „;” przed „*”
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(31): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+e:\zad4\zadanie4\zadanie4\cgeneticalgorithm.h(31): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  main.cpp
+e:\zad4\zadanie4\zadanie4\cknapsackproblem.h(24): error C2061: błąd składniowy: identyfikator „CIndividual”
+  Generowanie kodu...
